@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<groups xmlns="http://www.isdc.ro/wro" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isdc.ro/wro wro.xsd">
+   <group name="addons_responsive">
+      <js>/_ui/addons/selectivecartaddon/responsive/common/js/selectivecartaddon.js</js>
+      <css>/_ui/addons/selectivecartaddon/responsive/common/css/selectivecartaddon.css</css>
+      <css>/_ui/addons/chineseproductsharingaddon/responsive/common/css/chineseproductsharingaddon.css</css>
+      <js>/_ui/addons/stocknotificationaddon/responsive/common/js/stocknotificationaddon.js</js>
+      <css>/_ui/addons/stocknotificationaddon/responsive/common/css/stocknotificationaddon.css</css>
+      <js>/_ui/addons/customerinterestsaddon/responsive/common/js/customerinterestsaddon.js</js>
+      <css>/_ui/addons/customerinterestsaddon/responsive/common/css/customerinterestsaddon.css</css>
+      <css>/_ui/addons/notificationaddon/responsive/common/css/notificationaddon.css</css>
+      <js>/_ui/addons/consignmenttrackingaddon/responsive/common/js/consignmenttrackingaddon.js</js>
+      <css>/_ui/addons/consignmenttrackingaddon/responsive/common/css/consignmenttrackingaddon.css</css>
+      <js>/_ui/addons/chinesepspwechatpaymentaddon/responsive/common/js/chinesepspwechatpaymentaddon.js</js>
+      <css>/_ui/addons/chinesepspwechatpaymentaddon/responsive/common/css/chinesepspwechatpaymentaddon.css</css>
+      <js>/_ui/addons/chineseaddressaddon/responsive/common/js/chineseaddressaddon.js</js>
+      <js>/_ui/addons/chineseaddressaddon/responsive/common/js/string.patch.js</js>
+      <js>/_ui/addons/verticalnavigationaddon/responsive/common/js/verticalnavigationaddon.js</js>
+      <css>/_ui/addons/verticalnavigationaddon/responsive/common/css/verticalnavigationaddon.css</css>
+      <js>/_ui/addons/chinesestoreaddon/responsive/common/js/chinesestoreaddon.js</js>
+      <js>/_ui/addons/chinesetaxinvoiceaddon/responsive/common/js/chinesetaxinvoiceaddon.js</js>
+      <css>/_ui/addons/chinesetaxinvoiceaddon/responsive/common/css/chinesetaxinvoiceaddon.css</css>
+      <js>/_ui/addons/chinesepaymentaddon/responsive/common/js/chinesepaymentaddon.js</js>
+      <css>/_ui/addons/chinesepaymentaddon/responsive/common/css/chinesepaymentaddon.css</css>
+      <css>/_ui/addons/chineselogisticaddon/responsive/common/css/chineselogisticaddon.css</css>
+      <js>/_ui/addons/chineseprofileaddon/responsive/common/js/chineseprofileaddon.js</js>
+      <css>/_ui/addons/chineseprofileaddon/responsive/common/css/chineseprofileaddon.css</css>
+      <js>/_ui/addons/assistedservicestorefront/responsive/common/js/assistedservicestorefront.js</js>
+      <js>/_ui/addons/assistedservicestorefront/responsive/common/js/jquery.tablesorter.pager.js</js>
+      <js>/_ui/addons/assistedservicestorefront/responsive/common/js/jquery.tablesorter.min.js</js>
+      <js>/_ui/addons/assistedservicestorefront/responsive/common/js/Chart.min.js</js>
+      <js>/_ui/addons/assistedservicestorefront/responsive/common/js/asm.storefinder.js</js>
+      <css>/_ui/addons/assistedservicestorefront/responsive/common/css/assistedservicestorefront.css</css>
+      <css>/_ui/addons/assistedservicestorefront/responsive/common/css/storeFinder.css</css>
+      <js>/_ui/addons/textfieldconfiguratortemplateaddon/responsive/common/js/textfieldconfiguratortemplateaddon.js</js>
+      <css>/_ui/addons/textfieldconfiguratortemplateaddon/responsive/common/css/textfieldconfiguratortemplateaddon.css</css>
+      <js>/_ui/addons/smarteditaddon/shared/common/js/webApplicationInjector.js</js>
+      <js>/_ui/addons/smarteditaddon/shared/common/js/reprocessPage.js</js>
+      <js>/_ui/addons/smarteditaddon/shared/common/js/adjustComponentRenderingToSE.js</js>
+      <js>/_ui/addons/smarteditaddon/responsive/common/js/smarteditaddon.js</js>
+      <css>/_ui/addons/smarteditaddon/responsive/common/css/smarteditaddon.css</css>
+      <js>/_ui/addons/assistedservicepromotionaddon/responsive/common/js/assistedservicepromotionaddon.js</js>
+      <css>/_ui/addons/assistedservicepromotionaddon/responsive/common/css/assistedservicepromotionaddon.css</css>
+      <js>/_ui/addons/customercouponaddon/responsive/common/js/customercouponaddon.js</js>
+      <css>/_ui/addons/customercouponaddon/responsive/common/css/customercouponaddon.css</css>
+      <css>/_ui/addons/customercouponaddon/responsive/common/css/jquery-ui.min.css</css>
+      <js>/_ui/addons/customerticketingaddon/responsive/common/js/customerticketingaddon.js</js>
+      <css>/_ui/addons/customerticketingaddon/responsive/common/css/customerticketingaddon.css</css>
+      <js>/_ui/addons/orderselfserviceaddon/responsive/common/js/orderselfserviceaddon.js</js>
+      <js>/_ui/addons/orderselfserviceaddon/responsive/common/js/cms/cancelorderaction.js</js>
+      <js>/_ui/addons/orderselfserviceaddon/responsive/common/js/cms/returnorderaction.js</js>
+      <css>/_ui/addons/orderselfserviceaddon/responsive/common/css/orderselfserviceaddon.css</css>
+      <js>/_ui/addons/adaptivesearchsamplesaddon/responsive/common/js/adaptivesearchsamplesaddon.js</js>
+      <css>/_ui/addons/adaptivesearchsamplesaddon/responsive/common/css/adaptivesearchsamplesaddon.css</css>
+   </group>
+</groups>
+
