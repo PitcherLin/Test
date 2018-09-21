@@ -16,6 +16,6 @@ package org.cui.test.constants;
 public class CuiTestConstants extends GeneratedCuiTestConstants
 {
 
-	public static final String EXTENSIONNAME = "cuitest";
+	public static final String EXTENSIONNAME = "cuitest";1
 
 }
